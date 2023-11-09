@@ -1,6 +1,6 @@
 ## Coding prompts: creating CRUD React Component
 
-Example of using the Chat GPT for creating a react component. The component is a set of given data with the possibility to create, delete, update (**CRUD**). For renderig data we use **React MUI**: [Drawer](https://mui.com/material-ui/react-drawer/), [MUI Data Grid](https://mui.com/x/react-data-grid/) and other UI components.
+Example of using the Chat GPT for creating a react component. The component needs to render data in a table with the possibility to create, delete, update (**CRUD**). We use **React MUI**: [Drawer](https://mui.com/material-ui/react-drawer/), [MUI Data Grid](https://mui.com/x/react-data-grid/) and other UI components.
 
 **`Model: GPT-4 `**
 
