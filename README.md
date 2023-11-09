@@ -12,7 +12,7 @@ Example of using the CHAT GPT for creating a react component. The component is a
 
 **Result**:
 
-Code: [response_01.jsx]](https://github.com/ivanhala/coding-prompts-crud-react/blob/master/response_01.jsx)
+Code: [response_01.jsx](https://github.com/ivanhala/coding-prompts-crud-react/blob/master/response_01.jsx)
 
 ![Screenshot showing result of the first prompt.](/assets/response_01.png)
 
@@ -27,6 +27,6 @@ Line 27:26:  'handleDeleteUser' is not defined no-undef`
 
 **Result**:
 
-Code: [response_02.jsx]](https://github.com/ivanhala/coding-prompts-crud-react/blob/master/response_02.jsx)
+Code: [response_02.jsx](https://github.com/ivanhala/coding-prompts-crud-react/blob/master/response_02.jsx)
 
 ![Screenshot showing final code.](/assets/response_02.gif)
